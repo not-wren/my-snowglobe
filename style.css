@@ -11,6 +11,15 @@ h1 {
 .tagline {
     color: #df5034;
 }
+.globe-card {
+    background: #fdf7e8;
+    border: 2px solid #235fd4;
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1.25rem;
+}
 
 .hero {
     padding: 3rem 1rem 1rem;
@@ -23,15 +32,6 @@ main{
     padding: 0 1rem 4rem;
 }
 
-.global-card {
-    background: #fdf7e8;
-    border: 2px solid #235fd4;
-    padding: 2rem;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 1.25rem;
-}
 
 #message {
     font-style: italic;
@@ -53,5 +53,16 @@ main{
 
 button {
     font: inherit;
-    background: ;
+    color: white;
+    background: #df5034;
+    border: none;
+    padding: 0.75rem 1.5rem;
+    cursor: pointer;
+    transition: background 150ms ease, transform 150ms ease;
 }
+
+button:hover {
+    background: #a43835;
+    transform: scale(1.05);
+}
+
