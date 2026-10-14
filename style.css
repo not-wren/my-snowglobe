@@ -8,6 +8,12 @@ h1 {
     color: #f2985a;
     font-size: 2.5rem;
 }
+
+p{
+align-items: center;
+}
+
+
 .tagline {
     color: #5d7435;
 }
