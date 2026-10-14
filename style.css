@@ -1,19 +1,19 @@
 body {
     margin: 0;
-    color: #162d4f;
-    background: linear-gradient(#e6f4ff, #ffffff);
+    color: green;
+    background: linear-gradient(#f3ffe6, #ffffff);
     font-family: "Libre Caslon Text", Georgia, serif;
 }
 h1 {
-    color: #235fd4;
+    color: #f2985a;
     font-size: 2.5rem;
 }
 .tagline {
-    color: #df5034;
+    color: #5d7435;
 }
 .globe-card {
     background: #fdf7e8;
-    border: 2px solid #235fd4;
+    border: 2px solid #f29859;
     padding: 2rem;
     display: flex;
     flex-direction: column;
@@ -41,7 +41,7 @@ main{
     width: 12rem;
     height: 12rem;
     border-radius: 50%;
-    background: radial-gradient(circle at 30% 25%, #ffffff, #cfe6ff 65%, #9dc4ef);
+    background: radial-gradient(circle at 30% 25%, #a8cf64, #819e4e 65%, #5d7435);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -54,7 +54,7 @@ main{
 button {
     font: inherit;
     color: white;
-    background: #df5034;
+    background: #f2985a;
     border: none;
     padding: 0.75rem 1.5rem;
     cursor: pointer;
@@ -62,7 +62,7 @@ button {
 }
 
 button:hover {
-    background: #a43835;
+    background: #d17e46;
     transform: scale(1.05);
 }
 
