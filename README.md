@@ -5,4 +5,4 @@ I used CSS, HTML, and JS for this project and followed this Hack Club guide for 
 
 I learned a lot more JS and what keyframes are.
 
-Be sure to check out the site for some Halloween-themed wisdom/encouragement.
+Be sure to check out the site for some Halloween-themed wisdom/encouragement!!
