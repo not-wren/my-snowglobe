@@ -3,12 +3,12 @@ const button = document.querySelector("#shake");
 const message = document.querySelector("#message");
  
 const messages = [
-  "you are someone's favourite person to sit next to.",
-  "the thing you are building counts, even half finished.",
-  "you are allowed to be a beginner for as long as you need.",
-  "someone is going to love what you make with this.",
-  "hot chocolate tastes better after a hard day. you've earned one.",
-  "you ask good questions. that is the whole skill.",
+  "even spooky things are loved",
+  "a carved pumpkin smiles because of the light inside of it",
+  "I'm sure a ghoul would love what you're making.",
+  "some candy shared is better than all candy eaten",
+  "trick or treat? you decide",
+  "we all wear costumes sometimes. it's okay to take off the mask now.",
 ];
  
 button.addEventListener("click", () => {
